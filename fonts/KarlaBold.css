@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'KarlaBold';
+    src: url('fonts/KarlaBold.eot');
+    src: url('fonts/KarlaBold.eot') format('embedded-opentype'),
+         url('fonts/KarlaBold.woff2') format('woff2'),
+         url('fonts/KarlaBold.woff') format('woff'),
+         url('fonts/KarlaBold.ttf') format('truetype'),
+         url('fonts/KarlaBold.svg#KarlaBold') format('svg');
+}
